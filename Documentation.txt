@@ -1,0 +1,9 @@
+1. Lodash - install & use
+    install lodash: npm i lodash
+    create a file with .js extention
+    require lodash library as example lodash_use.js
+    now use lodash method... 
+
+
+2. 
+
