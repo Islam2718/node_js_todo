@@ -1,0 +1,12 @@
+Use of Multiple Version of NodeJs
+
+Prerequisites: 
+	NodeJs – different version. 
+	NVM
+
+Commands: 
+	Check node version: node –v
+	Check nvm: nvm
+	Check installed list of node: nvm list
+	Switch one version to another: nvm use node_version 
+	NodeJs install command: nvm install [node_version]
