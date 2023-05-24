@@ -5,5 +5,11 @@
     now use lodash method... 
 
 
-2. 
+2. Yarn - install & use: 
+    globally install yarn: npm install -g yarn 
+    
+3. Node - Modulation system ? 
+    One file variable not use to another file. example - if two file sript1.js and script2.js and script1 
+    contains a variable a=5 and script two contains same variable a=10 nodeJs can conflict. but JavaScript
+    will conflict/replace previous variable by next variable. this is modular system. 
 
